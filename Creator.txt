@@ -1,0 +1,7 @@
+Creators:B.Thilakmani,Yuvaraj,surya
+Objective:To create an awareness about clean india
+This was a project done for college by us.
+Languages used:HTML5,CSS3,Javascript
+Frameworks:Bootstrap, Jquery and css awesome font icons
+Hosted on:github pages.
+College:PSNACET,Dindigul.
